@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+backend/data/
+*.db
+
+# Node
+node_modules/
+dist/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Tool-generated
+.codegraph/
